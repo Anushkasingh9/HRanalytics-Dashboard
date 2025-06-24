@@ -17,34 +17,27 @@ Understand how frequently employees opt for remote work and on which days.
 Spot patterns in sick leaves and other absences across weekdays.
 
 📊 KPI Highlights at a Glance
-
 Presence %, WFH %, SL %
-
 Day-wise and employee-wise metrics
-
 Trendlines to monitor changes over time
 
 🎯 Dynamic Filters
 Slice by month, date, and employee to explore granular insights.
 
 Tools & Technologies Used
-
 Power BI – For creating interactive dashboards
 Power Query – For transforming and cleaning the dataset
 DAX (Data Analysis Expressions) – For calculated KPIs and formulas
 PBIX File – Dashboard built using Atliq's masked HR dataset for demo purposes
 
 Dashboard Preview
-(Replace with your image path)
+Snapshot of Dashboard.png
 
 This preview highlights presence %, WFH %, and SL % across months and weekdays.
 
 Use Cases
 
 HR professionals monitoring employee attendance
-
 Managers evaluating work-from-home trends
-
 Companies planning workforce operations
-
 Analysts learning from HR attendance analytics
