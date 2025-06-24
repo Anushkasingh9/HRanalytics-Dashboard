@@ -41,7 +41,7 @@ PBIX File – Dashboard built using Atliq's masked HR dataset for demo purposes
 
 Dashboard Preview
 
-Snapshot of Dashboard.png
+https://github.com/Anushkasingh9/HRanalytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
 This preview highlights presence %, WFH %, and SL % across months and weekdays.
 
